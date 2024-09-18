@@ -4,7 +4,7 @@
 
 -  🚀 Développeur Full Stack et fervente défenseur de l'open source
 
-- 🌱 Je suis en train d'apprendre **Vuejs**
+- 🌱 Je suis en train d'apprendre **Vuejs** & **Threejs**
 
 - 🌍 Toujours en quête de nouveaux défis sur GitHub
 
