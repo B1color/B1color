@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Développeuse Full Stack <br><br>🌱 Je suis en train d'apprendre Vuejs & Threejs<br><br>🌍 Toujours en quête de nouveaux défis sur GitHub<br><br>📚 Toujours avide d'apprendre et de me perfectionner<br><br>👨‍💻 Mon portfolio est en train d'être mis à jour
+🚀 Développeuse Full Stack <br><br>🌱 Je suis en train d'apprendre Vuejs & Threejs<br><br>🌍 Toujours en quête de nouveaux défis sur GitHub<br><br>📚 Toujours avide d'apprendre et de me perfectionner<br><br>👨‍💻 [Mon portfolio](https://mlebouard.fr/)
 
 
 ## 🌐 Socials:
